@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<?xml-stylesheet type="text/xsl" href="Student.xsl"?>
+<student>
+<details>
+<name> Divyesh </name>
+<class> CSE </class>
+<mark> 85</mark>
+</details>
+<details>
+<name> Jayesh </name>
+<class> ECE </class>
+<mark> 95</mark>
+</details>
+<details>
+<name> Rahul </name>
+<class> IT </class>
+<mark> 80</mark>
+</details>
+<details>
+<name> Sudhan </name>
+<class> EEE </class>
+<mark> 90</mark>
+</details>
+</student>
+ 
